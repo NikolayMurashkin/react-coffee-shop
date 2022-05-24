@@ -9,7 +9,7 @@ const Header = (props) => {
 				<div className="menu">
 					<nav className="menu__body">
 						<ul className="menu__list">
-							<Menu />
+							<Menu onMenuClick={props.onMenuClick}/>
 						</ul>
 					</nav>
 				</div>
