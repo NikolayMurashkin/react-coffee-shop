@@ -1,0 +1,17 @@
+.footer {
+	padding: 0px 15px;
+	._icon-logo_1:before {
+		color: #000;
+	}
+
+	._icon-logo_2:before {
+		color: #000;
+		font-size: 29px;
+	}
+}
+
+.menu__list {
+	display: flex;
+	justify-content: center;
+	margin: 0px auto 30px;
+}
