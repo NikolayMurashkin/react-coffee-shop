@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/react-coffee-shop/static/css/main.bb092bca.css",
-    "main.js": "/react-coffee-shop/static/js/main.0ed6403a.js",
+    "main.css": "/react-coffee-shop/static/css/main.d1cac1b5.css",
+    "main.js": "/react-coffee-shop/static/js/main.4e50ee08.js",
     "static/media/bg.jpg": "/react-coffee-shop/static/media/bg.be428268d9d0c95b69ca.jpg",
     "static/media/main-bg.jpg": "/react-coffee-shop/static/media/main-bg.142ba094ce59efe3ec08.jpg",
+    "static/media/our-coffee-bg.jpg": "/react-coffee-shop/static/media/our-coffee-bg.9a076e7971b9eaff5f50.jpg",
+    "static/media/for-your-pleasure-bg.jpg": "/react-coffee-shop/static/media/for-your-pleasure-bg.122948ac9588f250f11f.jpg",
+    "static/media/img.jpg": "/react-coffee-shop/static/media/img.408974f6323cd2bbdb53.jpg",
     "static/media/presto.jpg": "/react-coffee-shop/static/media/presto.a98bf35548347394b465.jpg",
     "static/media/aromisto.jpg": "/react-coffee-shop/static/media/aromisto.b3676b98fa2f089e093b.jpg",
     "static/media/solimo.jpg": "/react-coffee-shop/static/media/solimo.79e895192576e9620b5c.jpg",
@@ -12,11 +15,11 @@
     "static/media/icons.woff?40vrqp": "/react-coffee-shop/static/media/icons.9932f3836aa7d2ed01c4.woff",
     "static/media/icons.ttf?40vrqp": "/react-coffee-shop/static/media/icons.f43e3f7920154e19feef.ttf",
     "index.html": "/react-coffee-shop/index.html",
-    "main.bb092bca.css.map": "/react-coffee-shop/static/css/main.bb092bca.css.map",
-    "main.0ed6403a.js.map": "/react-coffee-shop/static/js/main.0ed6403a.js.map"
+    "main.d1cac1b5.css.map": "/react-coffee-shop/static/css/main.d1cac1b5.css.map",
+    "main.4e50ee08.js.map": "/react-coffee-shop/static/js/main.4e50ee08.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb092bca.css",
-    "static/js/main.0ed6403a.js"
+    "static/css/main.d1cac1b5.css",
+    "static/js/main.4e50ee08.js"
   ]
 }
