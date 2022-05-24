@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-coffee_shop-app/static/css/main.431f6b48.css",
-    "main.js": "/React-coffee_shop-app/static/js/main.74a4a90d.js",
-    "static/media/bg.jpg": "/React-coffee_shop-app/static/media/bg.be428268d9d0c95b69ca.jpg",
-    "static/media/main-bg.jpg": "/React-coffee_shop-app/static/media/main-bg.142ba094ce59efe3ec08.jpg",
-    "static/media/presto.jpg": "/React-coffee_shop-app/static/media/presto.a98bf35548347394b465.jpg",
-    "static/media/aromisto.jpg": "/React-coffee_shop-app/static/media/aromisto.b3676b98fa2f089e093b.jpg",
-    "static/media/solimo.jpg": "/React-coffee_shop-app/static/media/solimo.79e895192576e9620b5c.jpg",
-    "static/media/icons.svg?40vrqp": "/React-coffee_shop-app/static/media/icons.bd835e2d8b81b32e53b1.svg",
-    "static/media/icons.eot?40vrqp": "/React-coffee_shop-app/static/media/icons.c6638242065a4fa3ea1d.eot",
-    "static/media/icons.woff?40vrqp": "/React-coffee_shop-app/static/media/icons.9932f3836aa7d2ed01c4.woff",
-    "static/media/icons.ttf?40vrqp": "/React-coffee_shop-app/static/media/icons.f43e3f7920154e19feef.ttf",
-    "index.html": "/React-coffee_shop-app/index.html",
-    "main.431f6b48.css.map": "/React-coffee_shop-app/static/css/main.431f6b48.css.map",
-    "main.74a4a90d.js.map": "/React-coffee_shop-app/static/js/main.74a4a90d.js.map"
+    "main.css": "/react-coffee-shop/static/css/main.bb092bca.css",
+    "main.js": "/react-coffee-shop/static/js/main.0ed6403a.js",
+    "static/media/bg.jpg": "/react-coffee-shop/static/media/bg.be428268d9d0c95b69ca.jpg",
+    "static/media/main-bg.jpg": "/react-coffee-shop/static/media/main-bg.142ba094ce59efe3ec08.jpg",
+    "static/media/presto.jpg": "/react-coffee-shop/static/media/presto.a98bf35548347394b465.jpg",
+    "static/media/aromisto.jpg": "/react-coffee-shop/static/media/aromisto.b3676b98fa2f089e093b.jpg",
+    "static/media/solimo.jpg": "/react-coffee-shop/static/media/solimo.79e895192576e9620b5c.jpg",
+    "static/media/icons.svg?40vrqp": "/react-coffee-shop/static/media/icons.bd835e2d8b81b32e53b1.svg",
+    "static/media/icons.eot?40vrqp": "/react-coffee-shop/static/media/icons.c6638242065a4fa3ea1d.eot",
+    "static/media/icons.woff?40vrqp": "/react-coffee-shop/static/media/icons.9932f3836aa7d2ed01c4.woff",
+    "static/media/icons.ttf?40vrqp": "/react-coffee-shop/static/media/icons.f43e3f7920154e19feef.ttf",
+    "index.html": "/react-coffee-shop/index.html",
+    "main.bb092bca.css.map": "/react-coffee-shop/static/css/main.bb092bca.css.map",
+    "main.0ed6403a.js.map": "/react-coffee-shop/static/js/main.0ed6403a.js.map"
   },
   "entrypoints": [
-    "static/css/main.431f6b48.css",
-    "static/js/main.74a4a90d.js"
+    "static/css/main.bb092bca.css",
+    "static/js/main.0ed6403a.js"
   ]
 }
